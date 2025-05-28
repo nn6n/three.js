@@ -102,7 +102,7 @@
     "eslint-plugin-import": "^2.27.5",
     "failonlyreporter": "^1.0.0",
     "jimp": "^0.22.7",
-    "magic-string": "^0.30.0",
+    "magic-string": "^0.30.17",
     "pixelmatch": "^6.0.0",
     "puppeteer": "^22.0.0",
     "qunit": "^2.19.4",
