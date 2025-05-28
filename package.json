@@ -105,7 +105,7 @@
     "magic-string": "^0.30.0",
     "pixelmatch": "^6.0.0",
     "puppeteer": "^22.0.0",
-    "qunit": "^2.19.4",
+    "qunit": "^2.24.1",
     "rollup": "^4.6.0",
     "rollup-plugin-filesize": "^10.0.0",
     "rollup-plugin-visualizer": "^5.9.0",
