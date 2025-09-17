@@ -104,7 +104,7 @@
     "jimp": "^0.22.7",
     "magic-string": "^0.30.0",
     "pixelmatch": "^6.0.0",
-    "puppeteer": "^22.0.0",
+    "puppeteer": "^24.10.2",
     "qunit": "^2.19.4",
     "rollup": "^4.6.0",
     "rollup-plugin-filesize": "^10.0.0",
